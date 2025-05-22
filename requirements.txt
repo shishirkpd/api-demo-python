@@ -1,0 +1,9 @@
+flask
+boto3
+requests
+python-dotenv
+pytest-mock
+moto
+pytest
+pytest-cov
+pytest-mock
